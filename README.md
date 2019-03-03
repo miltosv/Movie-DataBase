@@ -3,3 +3,6 @@ A project for the Second Semester course Software Engineering at CSE departmet U
 Professor Panagiotis Vassiliadis http://cse.uoi.gr/~pvassil/courses/sw_dev/intro.html
 Co-developed with Sotiris Balatsias & Sotiria Kastana
 Files can be imported as an eclipse project
+
+
+Project might be updated with proper JUnit Tests in the future
