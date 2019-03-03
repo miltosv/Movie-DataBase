@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="D:/MEGA/CSEFiles/project2017/neo ergasia teliko/tainiothiki/lib/itext5-itextpdf-5.5.12.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
